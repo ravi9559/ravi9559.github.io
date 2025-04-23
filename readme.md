@@ -1,13 +1,4 @@
-<style>
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(10px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-.section {
-  animation: fadeIn 1s ease-in;
-  margin-top: 3rem;
-}
-</style>
+
 
 # 🌐 My Web Development Portfolio
 
