@@ -1,12 +1,8 @@
-
-
 # 🌐 My Web Development Portfolio
 
 Explore my work across different platforms and technologies. Each project highlights my skills in crafting high-performance, user-friendly websites.
 
 ---
-
-
 
 ## 🛍️ Shopify
 
@@ -16,11 +12,7 @@ Explore my work across different platforms and technologies. Each project highli
 - [Phillips Corporation](https://phillipscorp.com/)
 - [The Ethnic Co](https://theethnic.co/)
 
-</div>
-
 ---
-
-
 
 ## 🛒 WooCommerce
 
@@ -28,10 +20,7 @@ Explore my work across different platforms and technologies. Each project highli
 - [Bonsai Sensation](https://bonsaisensation.com.au/)
 - [Dermaglo](https://dermaglo.in/)
 
-
 ---
-
-<div class="section">
 
 ## 📝 WordPress
 
@@ -45,14 +34,8 @@ Explore my work across different platforms and technologies. Each project highli
 - [Community Carer Network](https://communitycarernetwork.com/)
 - [JMJDS](https://jmjds.com.au/)
 
-
-
 ---
-
-
 
 ## ☁️ Serverless (AWS S3 + CloudFront) + PWA
 
 - [Shop A Coupon](https://shopacoupon.com.au/)
-
-
