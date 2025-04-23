@@ -6,7 +6,7 @@ Explore my work across different platforms and technologies. Each project highli
 
 ---
 
-<div class="section">
+
 
 ## 🛍️ Shopify
 
@@ -20,7 +20,7 @@ Explore my work across different platforms and technologies. Each project highli
 
 ---
 
-<div class="section">
+
 
 ## 🛒 WooCommerce
 
@@ -28,7 +28,6 @@ Explore my work across different platforms and technologies. Each project highli
 - [Bonsai Sensation](https://bonsaisensation.com.au/)
 - [Dermaglo](https://dermaglo.in/)
 
-</div>
 
 ---
 
@@ -46,14 +45,14 @@ Explore my work across different platforms and technologies. Each project highli
 - [Community Carer Network](https://communitycarernetwork.com/)
 - [JMJDS](https://jmjds.com.au/)
 
-</div>
+
 
 ---
 
-<div class="section">
+
 
 ## ☁️ Serverless (AWS S3 + CloudFront) + PWA
 
 - [Shop A Coupon](https://shopacoupon.com.au/)
 
-</div>
+
