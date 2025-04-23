@@ -39,3 +39,7 @@ Explore my work across different platforms and technologies. Each project highli
 ## ☁️ Serverless (AWS S3 + CloudFront) + PWA
 
 - [Shop A Coupon](https://shopacoupon.com.au/)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=100&section=footer"/>
+</p>
